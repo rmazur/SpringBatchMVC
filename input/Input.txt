@@ -1,0 +1,7 @@
+Mary     Smith Female 26.05.1997
+John     Smith Male   05.01.1999
+Tom      Smith Male   08.02.2001
+Jeremy   Smith Male   13.02.2003
+Juliet   Smith Female 28.05.2005
+Caroline Smith Female 28.02.2007
+David    Smith Male   10.07.2009
